@@ -5,8 +5,6 @@
 ; Released ...........: 2015-05-26
 ; Modified ...........: 2022-10-19
 ; Version ............: 2.4.1
-; Github .............: https://github.com/tigerlily-dev/Monitor-Configuration-Class
-; Forum ..............: https://www.autohotkey.com/boards/viewtopic.php?f=83&t=79220
 ; License/Copyright ..: The Unlicense (https://unlicense.org)
 ;
 ;
