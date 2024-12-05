@@ -1,10 +1,9 @@
 ; =================================================================================================== ;
 ; AutoHotkey V2.0-beta.12 Wrapper for Monitor Configuration WinAPI Functions
 ;
-; Original Author ....: jNizM
+; Author ....: 348bestbox
 ; Released ...........: 2015-05-26
 ; Modified ...........: 2022-10-19
-; Improved By ........: tigerlily, CloakerSmoker
 ; Version ............: 2.4.1
 ; Github .............: https://github.com/tigerlily-dev/Monitor-Configuration-Class
 ; Forum ..............: https://www.autohotkey.com/boards/viewtopic.php?f=83&t=79220
